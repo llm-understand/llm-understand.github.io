@@ -15,6 +15,8 @@ AAAI 2025 Tutorial
 
 ## Presenters
 
+![](imgs/authors.jpg)
+
 - [Jindong Wang](https://jd92.wang/), William & Mary, jwang80 (at) wm.edu
 - [Kaijie Zhu](https://immortalise.github.io/), UC Santa Barbra, kaijiezhu (at) ucsb.edu
 - [Linyi Yang](https://yanglinyi.github.io/), Westlake University, yanglinyi (at) westlake.edu.cn
@@ -29,4 +31,6 @@ Slides will be available soon.
 
 ## Acknowledgement
 
-![](imgs/cci-logo.png)
+<img src="imgs/cci-logo.png" width="200px">
+
+<!-- ![](imgs/cci-logo.png) -->
