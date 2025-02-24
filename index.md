@@ -6,8 +6,6 @@ layout: home
 
 # Evaluating Large Language Models: Challenges and Methods
 
-AAAI 2025 Tutorial
-
 - Room 119B, Philadelphia Convention Center, PA, USA
 - 2-6pm, February 25, 2025
 
