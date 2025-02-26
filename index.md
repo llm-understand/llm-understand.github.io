@@ -11,16 +11,6 @@ layout: home
 
 ![](imgs/aaai25.jpg)
 
-## Schedule
-- 2:00-2:20: Background and Challenges [Jindong Wang](https://jd92.wang/)
-- 2:20-3:00: Adversarial and OOD Robustness [Jindong Wang](https://jd92.wang/)
-- 3:00-3:50  Agent Jailbreak and User Satisfaction [Yue Feng](https://fengyue-leah.github.io/)
-- 3:50-4:20: Dynamic Evaluation [Kaijie Zhu](https://immortalise.github.io/)
-- 4:20-4:40: Reliability and Reasoning [Kaijie Zhu](https://immortalise.github.io/)
-- 4:40-5:00: Jailbreak and Prompt Injection [Kaijie Zhu](https://immortalise.github.io/)
-- 5:00-5:50: Evaluation in Social Science [Jindong Wang](https://jd92.wang/)
-- 5:50-6:00: Conclusion and Future Directions [Jindong Wang](https://jd92.wang/)
-
 
 ## Presenters
 
@@ -34,9 +24,19 @@ layout: home
 
 ## Contents at a glance
 
-Slides will be available soon.
+Slides available to download: [Google Drive](https://drive.google.com/file/d/1YnXQ0Xtb--nkGvcLB5XV-ZYkD_sO4QQy/view?usp=sharing)
 
-![](imgs/contents.jpg)
+![](imgs/contents.png)
+
+- Background and challenges
+- Evaluation approaches
+  - Adversarial and OOD robustness
+  - Dynamic evaluation
+  - Reasoning
+  - Safety
+  - User evaluation
+- Evaluation in social science
+- Conclusion
 
 ## Acknowledgement
 
