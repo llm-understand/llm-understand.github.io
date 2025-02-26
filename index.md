@@ -24,7 +24,7 @@ layout: home
 
 ## Contents at a glance
 
-Slides available to download: [Google Drive](https://drive.google.com/file/d/1YnXQ0Xtb--nkGvcLB5XV-ZYkD_sO4QQy/view?usp=sharing)
+Slides are available to download: [Google Drive](https://drive.google.com/file/d/1YnXQ0Xtb--nkGvcLB5XV-ZYkD_sO4QQy/view?usp=sharing)
 
 ![](imgs/contents.png)
 
