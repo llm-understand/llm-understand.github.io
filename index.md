@@ -26,6 +26,8 @@ layout: home
 
 Slides are available to download: [Google Drive](https://drive.google.com/file/d/1YnXQ0Xtb--nkGvcLB5XV-ZYkD_sO4QQy/view?usp=sharing)
 
+[Partial video recording](https://us06web.zoom.us/rec/play/tSZ3weoc2K42sCpsnryBvwcWu7DRBm4GyFCIbw_Ax0RK9Lqp3zyG1usx6YziOqd7QtOQPyQoQeK1yyCx.nmy105rjCPxHNmUM?accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FmgeefQTi1ZvZBtfrBjTO1lxfvm7oNSKbOyUGOne8iZOSC9eXte2BTD7_WXcSf4Yg.aVNsmq1YW5Sv1A0O)
+
 ![](imgs/contents.png)
 
 - Background and challenges
